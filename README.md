@@ -11,7 +11,7 @@ document.addEventListener('deviceready', function () {
     };
   
     window.plugins.OneSignal
-      .startInit("29805018-37fd-4198-aaac-5626d76c630a")
+      .startInit("ID_APP")
       .handleNotificationOpened(notificationOpenedCallback)
       .endInit();
     

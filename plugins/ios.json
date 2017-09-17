@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.br.raphael.onesignal"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.br.raphael.onesignal"
+        }
+    },
+    "dependent_plugins": {}
+}
